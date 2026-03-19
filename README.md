@@ -1,6 +1,6 @@
 # ICMP Redirect Attack Lab
 
-> Network Security | University Lab | Docker Environment
+> Network Security |  Docker Environment
 
 ---
 
